@@ -1,0 +1,8 @@
+.nowy{
+   display: flex;
+   flex-direction: column;
+}
+.contactus {
+    margin: 100px;
+    font-size: 50px;
+}
